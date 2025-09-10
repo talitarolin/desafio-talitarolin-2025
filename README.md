@@ -1,5 +1,4 @@
 # Abrigo de Animais 𓃠
->>>>>>> 66004ed (Projeto finalizado: AbrigoAnimais com testes e README)
 
 Simulação de adoção de animais em um abrigo, considerando brinquedos desejados, limites de adoção por pessoa e regras especiais.
 
